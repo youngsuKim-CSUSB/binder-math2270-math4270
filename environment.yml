@@ -1,4 +1,4 @@
-name: activity-sheet-testing
+name: activity-sheet-elementary-differential-equation
 channels:
   - conda-forge
 dependencies:
